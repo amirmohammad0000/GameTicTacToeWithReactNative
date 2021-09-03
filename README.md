@@ -1,4 +1,4 @@
-# GameTicTacToeWithReactNative!
+# Game TicTacToe With React Native!
 
 This is a tic tac toe game made with react native
 
